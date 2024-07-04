@@ -1,4 +1,4 @@
-## College_ERP Project 🎀🎀🎀
+## College_ERP Project
 
 ![](client/src/assets/css-flexbox-poster.png)
 
